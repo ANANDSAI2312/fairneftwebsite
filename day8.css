@@ -44,6 +44,7 @@
 .mas1{
     color: whitesmoke;
     font-size: 90px;
+    /* margin-left: 4em; */
     
 }
 .mas2{
@@ -70,6 +71,7 @@
 }
 .heading{
     display: flex;
+    margin-bottom: 8em;
 }
 .head{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -115,6 +117,7 @@
 }
 .heading1{
     display: flex;
+    margin-bottom: 8em;
 }
 .img3{
     height: 450px;
@@ -160,6 +163,7 @@
 }
 .heading2{
     display: flex;
+    margin-bottom: 8em;
 }
 .it{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -204,6 +208,7 @@
 }
 .cse{
     display: flex;
+    margin-bottom: 8em;
 }
 .img5{
     height: 450px;
@@ -247,6 +252,7 @@
 }
 .ece{
     display: flex;
+    margin-bottom: 8em;
 }
 .ece1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -290,6 +296,7 @@
 }
 .aiml{
     display: flex;
+    margin-bottom: 8em;
 }
 .img7{
     height: 450px;
@@ -333,6 +340,7 @@
 }
 .eee{
     display: flex;
+    margin-bottom: 8em;
 }
 .eee1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -376,6 +384,7 @@
 }
 .civil{
     display: flex;
+    margin-bottom: 8em;
 }
 .civil1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -418,12 +427,266 @@
     margin-top: 3em;
     margin-left: 3em;
 }
-/* .civil{
+.mech{
     display: flex;
+    margin-bottom: 8em;
+}
+.mech1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-left: 4em;
+}
+.mech2{
+    font-size: 22px;
+    font-family:sans-serif;
+    margin-left: 3em;
+}
+.mech3{
+    font-size: 20px;
+    font-family:sans-serif;
+    color: rgb(66, 125, 193);
+    margin-left: 3em;
+}
+.mech4{
+    background-color:#22b24b;
+    height: 60px;
+    width: 175px;
+    font-size: 20px;
+    margin-top: 4em;
+    border-radius: 2em;
+    margin-left: 5em;
+    color: whitesmoke;
+    margin-top: 2em;
+}
+.mech5{
+    height: 60px;
+    width: 175px;
+    font-size: 20px;
+    margin-left: 5em;
+    border-radius: 2em;
+    color: rgb(61, 61, 203);
 }
 .img10{
     height: 450px;
     width: 500px;
-    margin-left: 55em;
-    margin-bottom: 25em;
-} */
+    margin-left: 12em;
+}
+.dip{
+    display: flex;
+    margin-bottom: 6em;
+}
+.dip1{
+    font-size: 20px;
+    font-family:sans-serif;
+    color: rgb(147, 214, 147);
+    margin-left: 3em;
+}
+.dip2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-left: 3em;
+}
+.dip3{
+    font-size: 22px;
+    font-family:sans-serif;
+    margin-left: 3em;
+}
+.dip4{
+    font-size: 20px;
+    font-family:sans-serif;
+    color: rgb(66, 125, 193);
+    margin-left: 3em;
+}
+.dip5{
+    background-color:#22b24b;
+    height: 60px;
+    width: 175px;
+    font-size: 20px;
+    margin-top: 4em;
+    border-radius: 2em;
+    margin-left: 5em;
+    color: whitesmoke;
+    margin-top: 2em;
+}
+.dip6{
+    height: 60px;
+    width: 175px;
+    font-size: 20px;
+    margin-left: 5em;
+    border-radius: 2em;
+    color: rgb(61, 61, 203);
+}
+.img11{
+    height: 450px;
+    width: 500px;
+    margin-left: 12em;
+    margin-top: 4em;
+}
+.phn{
+    display: flex;
+    margin-bottom: 6em;
+}
+.phn1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-left: 4em;
+}
+.phn2{
+    font-size: 22px;
+    font-family:sans-serif;
+    margin-left: 3em;
+}
+.phn3{
+    font-size: 20px;
+    font-family:sans-serif;
+    color: rgb(66, 125, 193);
+    margin-left: 4em;
+}
+.phn4{
+    background-color:#22b24b;
+    height: 60px;
+    width: 175px;
+    font-size: 20px;
+    margin-top: 4em;
+    border-radius: 2em;
+    margin-left: 5em;
+    color: whitesmoke;
+    margin-top: 2em;
+}
+.phn5{
+    height: 60px;
+    width: 175px;
+    font-size: 20px;
+    margin-left: 5em;
+    border-radius: 2em;
+    color: rgb(61, 61, 203);
+}
+.img12{
+    height: 450px;
+    width: 500px;
+    margin-left: 3em;
+}
+.mob{
+    display: flex;
+}
+.img13{
+    height: 450px;
+    width: 500px;
+    margin-left: 12em;
+}
+.mob1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-left: 4em;
+}
+.mob2{
+    font-size: 22px;
+    font-family:sans-serif;
+    margin-left: 3em;
+}
+.mob3{
+    font-size: 20px;
+    font-family:sans-serif;
+    color: rgb(66, 125, 193);
+    margin-left: 4em;
+}
+.mob4{
+    background-color:#22b24b;
+    height: 60px;
+    width: 175px;
+    font-size: 20px;
+    margin-top: 4em;
+    border-radius: 2em;
+    margin-left: 5em;
+    color: whitesmoke;
+    margin-top: 2em;
+}
+.mob5{
+    height: 60px;
+    width: 175px;
+    font-size: 20px;
+    margin-left: 5em;
+    border-radius: 2em;
+    color: rgb(61, 61, 203);
+}
+.lap{
+    display: flex;
+    margin-bottom: 5em;
+}
+.lap1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-left: 4em;
+}
+.lap2{
+    font-size: 22px;
+    font-family:sans-serif;
+    margin-left: 3em;
+}
+.lap3{
+    font-size: 20px;
+    font-family:sans-serif;
+    color: rgb(66, 125, 193);
+    margin-left: 4em;
+}
+.lap4{
+    background-color:#22b24b;
+    height: 60px;
+    width: 175px;
+    font-size: 20px;
+    margin-top: 4em;
+    border-radius: 2em;
+    margin-left: 5em;
+    color: whitesmoke;
+    margin-top: 2em;
+}
+.lap5{
+    height: 60px;
+    width: 175px;
+    font-size: 20px;
+    margin-left: 5em;
+    border-radius: 2em;
+    color: rgb(61, 61, 203);
+}
+.img14{
+    height: 450px;
+    width: 500px;
+    margin-left: 3em;
+}
+.chai{
+    display: flex;
+    gap: 12em;
+   background-color: rgb(10, 94, 169);
+}
+.img15{
+    height: 450px;
+    width: 500px;
+    margin-top: 8em;
+}
+.chai1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 75px;
+    margin-left: 1em;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.chai2{
+    font-size: 22px;
+    font-family:sans-serif;
+    margin-left: 3.5em;
+    color: white;
+}
+.chai3{
+ background-color:#22b24b ;
+    height: 60px;
+    width: 275px;
+    font-size: 20px;
+    margin-top: 4em;
+    border-radius: 2em;
+    margin-left: 5em;
+    color: whitesmoke;
+
+}
+.chai4{
+    color: rgb(120, 187, 120);
+}
