@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>positions in html</title>
+    <style>
+        .parent>p{
+            height: 200px;
+            color: blue;
+        }
+        #uniquechild:hover{
+            background-color: aqua;
+        }
+        #uniquechild::first-letter{
+            color: black;
+        }
+        /* #uniquechild{
+            position: relative;
+            top: 100px; */
+        /* } */
+        .manideep1{
+            position: relative;
+            height: 150px;
+            width: 150px;
+            right: 0px;
+
+        }
+        .manideep{
+
+        }
+    </style>
+</head>
+<body>
+    <div class="parent">
+        <div class="child">
+            <p>this is grand child</p>
+        </div>
+        <div>
+            this is grand grand child
+        </div>
+        <p id="uniquechild">
+            this is child
+        </p>
+
+    </div>
+
+
+    <!-- postions in css -->
+
+    <!-- there are 5 types in positions
+     static-defult
+     relative
+     fixed
+     absolute
+    sticky -->
+
+    <!-- relative -can change the position of the element based on its relative or default position 
+          fixed   -will change the position based on the viewport or screen,cannot scrolled
+          absolute-will change the position relatively to the closest positioned parent,else it will position with respect to viewport
+          sticky  -initially psitioned with normal flow,once its pod]sition is triggered it will become fixed
+    -->
+
+    <div class="manideep">
+        <img class="manideep1" src="./zz.png" alt="image">
+    </div>
+</body>
+</html>
